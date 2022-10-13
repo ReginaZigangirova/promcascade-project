@@ -1,0 +1,6 @@
+@media screen and (max-width: 830px) {
+    .work__img {
+        width: 10px;
+        height: 37px;
+    }
+}

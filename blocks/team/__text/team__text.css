@@ -1,0 +1,13 @@
+.team__text {
+    font-weight: 600;
+    font-size: 27px;
+    line-height: 100%;
+    margin: 0;
+    color: #E94F13;
+}
+
+@media screen and (max-width: 830px) {
+    .team__text {
+        font-size: 16px;
+    }
+}

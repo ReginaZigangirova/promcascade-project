@@ -1,0 +1,36 @@
+.about-us__button {
+    font-style: normal;
+    font-weight: 500;
+    font-size: 15px;
+    line-height: 100%;
+    color: #F26933;
+    text-shadow: 0px 0px 17.2333px #E94F13;
+    border: 1.58065px solid #E94F13;
+    box-shadow: 0px 0px 17.3871px 0.790323px #E94F13;
+    border-radius: 57.5086px;
+    background: transparent;
+    padding: 15px 27px 16px;
+    cursor: pointer;
+    margin: 23px 0 0;
+}
+
+@media screen and (max-width: 925px) {
+    .about-us__button {
+        margin-top: 14px;
+        padding: 9px 16px 10px 16px;
+    }
+}
+
+@media screen and (max-width: 740px) {
+    .about-us__button {
+        font-size: 9px;
+    }
+}
+
+@media screen and (max-width: 575px) {
+    .about-us__button {
+        margin-top: 50px;
+        font-size: 10px;
+        padding: 8px 62px 9px 63px;
+    }
+}

@@ -1,0 +1,16 @@
+.capabilities__text {
+    font-style: normal;
+    font-weight: 600;
+    font-size: 27px;
+    line-height: 100%;
+    color: #FFFFFF;
+    margin: 35px 0 0;
+}
+
+@media screen and (max-width: 830px) {
+    .capabilities__text {
+        font-size: 16px;
+        margin-top: 25px;
+    }
+}
+

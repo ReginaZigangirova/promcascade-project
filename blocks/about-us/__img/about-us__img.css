@@ -1,0 +1,33 @@
+.about-us__img {
+    width: 465px;
+    height: 583px;
+    position: absolute;
+      bottom: 0;
+}
+
+@media screen and (max-width: 985px) {
+    .about-us__img {
+        width: 400px;
+        height: 450px;
+    }
+}
+
+@media screen and (max-width: 780px) {
+    .about-us__img {
+        width: 289.27px;
+        height: 362.67px;
+    }
+}
+
+@media screen and (max-width: 620px) {
+    .about-us__img {
+        width: 245.37px;
+        height: 308px;
+    }
+}
+
+@media screen and (max-width: 575px) {
+    .about-us__img {
+        right: 0;
+    }
+}

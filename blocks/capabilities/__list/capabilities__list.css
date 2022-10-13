@@ -1,0 +1,18 @@
+.capabilities__list {
+    padding: 0;
+    margin: 0;
+    list-style-type: none;
+    border-left: 2px solid #E94F13;
+    font-weight: 600;
+    font-size: 27px;
+    line-height: 100%;
+    color: #FFFFFF;
+    padding-left: 20px;
+}
+
+@media screen and (max-width: 830px) {
+    .capabilities__list {
+        font-size: 16px;
+        padding-left: 10px;
+    }
+}

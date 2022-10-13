@@ -1,0 +1,15 @@
+.participation {
+    padding: 70px 0 0;
+}
+
+@media screen and (max-width: 830px) {
+    .participation {
+        padding-top: 40px;
+    }
+}
+
+@media screen and (max-width: 575px) {
+    .participation {
+        padding-top: 30px;
+    }
+}

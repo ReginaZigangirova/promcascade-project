@@ -1,0 +1,52 @@
+.about-us__author {
+    position: absolute;
+    top: 415px;
+    left: 253px;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 100%;
+    color: #FFFFFF;
+    margin: 0;
+    width: 180px;
+}
+
+@media screen and (max-width: 975px) {
+    .about-us__author {
+        left: 200px;
+    }
+}
+
+@media screen and (max-width: 780px) {
+    .about-us__author {
+        top: 460px;
+        left: 159px;
+        font-size: 9px;
+        width: 95px;
+    }
+}
+
+@media screen and (max-width: 740px) {
+    .about-us__author {
+        top: 256px;
+    }
+}
+
+@media screen and (max-width: 590px) {
+    .about-us__author {
+        left: 125px;
+    }
+}
+
+@media screen and (max-width: 575px) {
+    .about-us__author {
+        left: 355px;
+        top: -98px;
+    }
+}
+
+@media screen and (max-width: 480px) {
+    .about-us__author {
+        left: 275px;
+    }
+}

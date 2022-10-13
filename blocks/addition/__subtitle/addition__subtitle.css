@@ -1,0 +1,14 @@
+.addition__subtitle {
+    font-weight: 600;
+    font-size: 27px;
+    line-height: 100%;
+    margin: 35px 0 0;
+    color: #FFFFFF;
+}
+
+@media screen and (max-width: 830px) {
+    .addition__subtitle {
+        font-size: 16px;
+        margin-top: 25px;
+    }
+}

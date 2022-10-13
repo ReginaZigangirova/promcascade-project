@@ -1,0 +1,83 @@
+@import url(../vendor/normalize.css);
+@import url(../vendor/fonts/font.css);
+
+@import url(../blocks/wrapper/wrapper.css);
+@import url(../blocks/page/page.css);
+@import url(../blocks/app/app.css);
+
+@import url(../blocks/about-us/about-us.css);
+@import url(../blocks/about-us/__author/about-us__author.css);
+@import url(../blocks/about-us/__button/about-us__button.css);
+@import url(../blocks/about-us/__img/about-us__img.css);
+@import url(../blocks/about-us/__subtitle/about-us__subtitle.css);
+@import url(../blocks/about-us/__text/about-us__text.css);
+@import url(../blocks/about-us/__title/about-us__title.css);
+@import url(../blocks/about-us/__span/about-us__span.css);
+@import url(../blocks/about-us/__container/about-us__container.css);
+
+@import url(../blocks/addition/addition.css);
+@import url(../blocks/addition/__title/addition__title.css);
+@import url(../blocks/addition/__subtitle/addition__subtitle.css);
+@import url(../blocks/addition/__span/addition__span.css);
+
+@import url(../blocks/footer/footer.css);
+@import url(../blocks/footer/__container/footer__container.css);
+@import url(../blocks/footer/__text/footer__text.css);
+@import url(../blocks/footer/__title/footer__title.css);
+
+@import url(../blocks/header/header.css);
+@import url(../blocks/header/__logo/header__logo.css);
+@import url(../blocks/header/__container/header__container.css);
+@import url(../blocks/header/__img/header__img.css);
+@import url(../blocks/header/__span/header__span.css);
+@import url(../blocks/header/__subtitle/header__subtitle.css);
+@import url(../blocks/header/__title/header__title.css);
+
+@import url(../blocks/main/main.css);
+
+@import url(../blocks/capabilities/capabilities.css);
+@import url(../blocks/capabilities/__container/capabilities__container.css);
+@import url(../blocks/capabilities/__img/capabilities__img.css);
+@import url(../blocks/capabilities/__list-item/capabilities__list-item.css);
+@import url(../blocks/capabilities/__list/capabilities__list.css);
+@import url(../blocks/capabilities/__span/capabilities__span.css);
+@import url(../blocks/capabilities/__title/capabilities__title.css);
+@import url(../blocks/capabilities/__text/capabilities__text.css);
+
+@import url(../blocks/participation/participation.css);
+@import url(../blocks/participation/__container/participation__container.css);
+@import url(../blocks/participation/__content/participation__content.css);
+@import url(../blocks/participation/__img/participation__img.css);
+@import url(../blocks/participation/__image/participation__image.css);
+@import url(../blocks/participation/__list-item/participation__list-item.css);
+@import url(../blocks/participation/__list/participation__list.css);
+@import url(../blocks/participation/__paragraph/participation__paragraph.css);
+@import url(../blocks/participation/__title/participation__title.css);
+
+@import url(../blocks/form/form.css);
+@import url(../blocks/form/__container/form__container.css);
+@import url(../blocks/form/__content/form__content.css);
+@import url(../blocks/form/__img/form__img.css);
+@import url(../blocks/form/__list-item/form__list-item.css);
+@import url(../blocks/form/__list/form__list.css);
+@import url(../blocks/form/__span/form__span.css);
+@import url(../blocks/form/__subtitle/form__subtitle.css);
+@import url(../blocks/form/__title/form__title.css);
+@import url(../blocks/form/__text/form__text.css);
+
+@import url(../blocks/team/team.css);
+@import url(../blocks/team/__list-item/team__list-item.css);
+@import url(../blocks/team/__list/team__list.css);
+@import url(../blocks/team/__span/team__span.css);
+@import url(../blocks/team/__text/team__text.css);
+
+@import url(../blocks/work/work.css);
+@import url(../blocks/work/__button/work__button.css);
+@import url(../blocks/work/__content/work__content.css);
+@import url(../blocks/work/__description/work__description.css);
+@import url(../blocks/work/__img/work__img.css);
+@import url(../blocks/work/__row/work__row.css);
+@import url(../blocks/work/__span/work__span.css);
+@import url(../blocks/work/__subtitle/work__subtitle.css);
+@import url(../blocks/work/__text/work__text.css);
+@import url(../blocks/work/__title/work__title.css);

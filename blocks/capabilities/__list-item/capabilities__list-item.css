@@ -1,0 +1,12 @@
+.capabilities__list-item {
+    margin-top: 30px;
+}
+.capabilities__list-item:first-child {
+    margin: 0;
+}
+
+@media screen and (max-width: 830px) {
+    .capabilities__list-item {
+        margin-top: 25px;
+    }
+}

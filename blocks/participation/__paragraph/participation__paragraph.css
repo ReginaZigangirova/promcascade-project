@@ -1,0 +1,13 @@
+.participation__paragraph {
+    font-weight: 600;
+    font-size: 27px;
+    line-height: 100%;
+    color: #E94F13;
+    margin: 0;
+}
+
+@media screen and (max-width: 830px) {
+    .participation__paragraph {
+        font-size: 16px;
+    }
+}

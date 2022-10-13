@@ -1,0 +1,15 @@
+.addition {
+    padding: 70px 0 250px;
+}
+
+@media screen and (max-width: 830px) {
+    .addition {
+        padding-top: 40px;
+    }
+}
+
+@media screen and (max-width: 575px) {
+    .addition {
+        padding-top: 30px;
+    }
+}

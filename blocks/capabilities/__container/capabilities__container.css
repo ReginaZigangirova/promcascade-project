@@ -1,0 +1,12 @@
+.capabilities__container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 35px 0 0;
+}
+
+@media screen and (max-width: 830px) {
+    .capabilities__container {
+        margin-top: 10px;
+    }
+}

@@ -1,0 +1,19 @@
+.work__row {
+    display: flex;
+    margin-top: 45px;
+    justify-content: space-between;
+    max-width: 948px;
+}
+
+@media screen and (max-width: 830px) {
+    .work__row {
+        max-width: 604px;
+    }
+}
+
+@media screen and (max-width: 575px) {
+    .work__row {
+        display: block;
+        margin-top: 25px;
+    }
+}

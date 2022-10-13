@@ -1,0 +1,20 @@
+.work__text {
+    font-weight: 600;
+    font-size: 27px;
+    line-height: 100%;
+    color: #FFFFFF;
+    margin: 0;
+    text-align: start;
+}
+
+@media screen and (max-width: 830px) {
+    .work__text {
+        font-size: 16px;
+    }
+}
+
+@media screen and (max-width: 575px) {
+    .work__text {
+        text-align: center;
+    }
+}

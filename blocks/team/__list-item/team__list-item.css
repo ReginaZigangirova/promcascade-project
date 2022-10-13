@@ -1,0 +1,9 @@
+.team__list-item {
+    margin-top: 45px;
+}
+
+@media screen and (max-width: 830px) {
+    .team__list-item {
+        margin-top: 25px;
+    }
+}

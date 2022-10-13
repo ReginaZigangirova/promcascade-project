@@ -1,0 +1,18 @@
+.about-us__container {
+    position: relative;
+    padding: 67px 0 134px;
+    z-index: 5;
+}
+
+.about-us__container:last-child {
+    padding: 0;
+    /* height: 583px; */
+    z-index: 1;
+}
+
+@media screen and (max-width: 740px) {
+    .about-us__container {
+        padding-top: 36px;
+        padding-bottom: 99px;
+    }
+}

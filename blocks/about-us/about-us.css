@@ -1,0 +1,18 @@
+.about-us {
+    padding: 46px 30px 0;
+    display: flex;
+    /* height: 583px; */
+    position: relative;
+}
+
+@media screen and (max-width: 740px) {
+    .about-us {
+        padding-top: 12px;
+    }
+}
+
+@media screen and (max-width: 575px) {
+    .about-us {
+        display: block;
+    }
+}
